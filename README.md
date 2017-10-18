@@ -1,0 +1,1 @@
+# Swipegesture_Manager
